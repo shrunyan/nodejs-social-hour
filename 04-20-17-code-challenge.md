@@ -6,6 +6,7 @@ Write a slack bot! The goal of this challenge will be to write a hubot chatbot w
 __Requirements:__
 
 - [hubot](https://hubot.github.com/docs/)
+- [Slack adapter](https://github.com/slackapi/hubot-slack)
 - Connection token: `HUBOT_SLACK_TOKEN=xoxb-173226011719-Wka9rt7fhw1zzH5PjFH8zDQC`
 *Please make sure you respect our CoC when posting messages* :)
 
